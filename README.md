@@ -9,5 +9,5 @@ The FSMD simulator uses [simpleeval] — for safe expression evaluation.
 
 Usage:
 
-python3 fsmd-sim.py [cycles] [desc_file.txt] [stim_file.txt]
+python3 fsmd-sim.py <cycles> <desc_file.txt> <stim_file.txt>
 
